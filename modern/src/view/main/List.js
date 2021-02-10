@@ -1,6 +1,6 @@
 /**
  * This view is an example list of people.
- * Commento messo da Marco
+ * Commento messo da Marco - vale
  */
 Ext.define('GitApp.view.main.List', {
     extend: 'Ext.grid.Grid',

@@ -1,5 +1,6 @@
 /**
  * This view is an example list of people.
+ * Commento messo da Marco
  */
 Ext.define('GitApp.view.main.List', {
     extend: 'Ext.grid.Grid',
